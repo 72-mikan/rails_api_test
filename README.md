@@ -22,3 +22,11 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# やりたいこと
+
+railsでのapiモードを確認してみたかった
+
+# やってみたこと
+
+apiモードでrails apiを作成し実際に動かしget,post,delete,updateを確認した。
